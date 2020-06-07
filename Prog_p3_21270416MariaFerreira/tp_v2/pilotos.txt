@@ -1,0 +1,21 @@
+Paulo Andrade
+2 23 12 1995 76 0.00 0 0
+
+Faisca
+3 1 1 1980 50 19.00 0 0
+
+Diana Alves Pombo
+4 1 10 1990 55 10.00 1 0
+
+Ana Luisa Freitas
+7 12 7 1976 68 7.00 0 0
+
+Maria Ferreira
+5 27 2 1999 58 11.50 0 0
+
+Carlos Ferreira
+1 27 3 1989 78 4.50 1 0
+
+Joaquim Ferreira
+8 28 3 1983 78 14.00 0 0
+
